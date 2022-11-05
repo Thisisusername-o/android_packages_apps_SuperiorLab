@@ -371,4 +371,10 @@
     <string name="status_bar_logo_style_gender_male_female">Male &amp; female</string>
     <string name="status_bar_logo_style_amogus">AmongUs</string>
     <string name="status_bar_logo_style_guitar_electric">Electric guitar</string>
+
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Toggle torch when screen off</string>
+    <string name="torch_power_button_gesture_none">Disabled</string>
+    <string name="torch_power_button_gesture_dt">Double tap power button (slower single tap response), Disables double power tap for camera.</string>
+    <string name="torch_power_button_gesture_lp">Long press power button</string>
 </resources>
