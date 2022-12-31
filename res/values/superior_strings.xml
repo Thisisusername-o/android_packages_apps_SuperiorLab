@@ -305,4 +305,13 @@
     <string name="qs_tile_layout_summary">Show label below icon instead next to icon</string>
     <string name="qs_columns_portrait_title">Columns (portrait)</string>
     <string name="qs_columns_landscape_title">Columns (landscape)</string>
+
+    <!-- Clock Settings -->
+    <string name="clock_style_category_title">Clock Settings</string>
+
+    <!-- Clock position -->
+    <string name="status_bar_clock_position_center">Center</string>
+    <string name="status_bar_clock_position_left">Left</string>
+    <string name="status_bar_clock_position_right">Right</string>
+    <string name="status_bar_clock_position_title">Clock position</string>
 </resources>
