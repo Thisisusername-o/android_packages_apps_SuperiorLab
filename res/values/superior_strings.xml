@@ -430,4 +430,10 @@
     <!-- Wi-Fi Standard icon -->
     <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
     <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
+    <string name="reticker_colored_title">Use app colored background</string>
+    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
 </resources>
